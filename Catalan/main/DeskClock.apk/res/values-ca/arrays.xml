@@ -927,7 +927,7 @@
     </string-array>
     <string-array name="alarm_in_furture">
         <item> Alarma en menys d\'1 minut</item>
-        <item>Sonarà en %1$s</item>
+        <item>Sonarà d'aqui a %1$s</item>
         <item>Sonarà en %2$s</item>
         <item>Sonarà en %1$s %2$s</item>
         <item>Sonarà en %3$s</item>
@@ -1016,7 +1016,7 @@
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>No fer res</item>
-        <item>Repeteix</item>
+        <item>Repetir</item>
         <item>Rebutjar</item>
     </string-array>
     <string-array name="volume_button_setting_values">
